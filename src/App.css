@@ -1,0 +1,8 @@
+.digital-clock {
+  text-align: center;
+  margin-top: 50px; /* Adjust the margin as needed */
+}
+
+.digital-clock p {
+  font-size: 24px; /* Adjust the font size as needed */
+}
